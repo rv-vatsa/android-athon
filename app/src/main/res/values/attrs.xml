@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CircularProgressView">
+
+        <attr name="initialProgressValue" format="integer" />
+        <attr name="stroke_width" format="dimension" />
+        <attr name="background_stroke_width" format="dimension" />
+        <attr name="text_size" format="integer" />
+        <attr name="textStrokeWidth" format="integer"/>
+
+    </declare-styleable>
+
+
+</resources>
